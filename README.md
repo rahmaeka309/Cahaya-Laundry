@@ -95,4 +95,5 @@ A web-based application for managing operational data and transactions of a laun
 **Rahma Eka Putri**
 
 * 📧 Email: [rahmaputri552@gmail.com](mailto:rahmaputri552@gmail.com)
-* 🌐 GitHub: [github.com/rahmaputri552](https://github.com/rahma309)
+
+* 🌐 GitHub: [github.com/rahmaputri309](https://github.com/rahma309)
